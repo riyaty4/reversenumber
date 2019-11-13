@@ -1,7 +1,7 @@
 #include<iostream.h>
 int main()
 {
-int x,y,z=0;
+int x,y,z=0; //initialisation
 cin>>x;
 while(x!=0)
 {
